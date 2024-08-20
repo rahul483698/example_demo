@@ -4,3 +4,9 @@ this is demo for git and github class
 hgvhggg
 
 xfggdsf
+
+# teacher
+ shardha khapra
+
+ # student
+   delta satr
